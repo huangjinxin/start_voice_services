@@ -1,0 +1,2 @@
+# start_voice_services
+macOS上的一套本地化语音识别sherpa-onnx综合服务
